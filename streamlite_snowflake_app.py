@@ -1,3 +1,5 @@
 import streamlit
-streamlit.title ('Welcome to Stream lit and Snowflake app')
+streamlit.title ('Streamlit and Snowflake app')
+streamlit.head ('Snowflake Course')
+streamlit.tect('Data applcation builders application')
 
